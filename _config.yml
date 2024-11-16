@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 不说524
-zhihu_username: JoyLee
+bilibili_username: 390327846?spm_id_from=333.999.0.0
+zhihu_username: li-yi-62-55-9
 github_username: AmyLee-github
-twitter_username: JoyLee1090750
+csdn_username: weixin_44165186?type=blog
 #facebook_username:  joyleepro
 #linkedin_username:  firstname-lastname-idxxxx
 
