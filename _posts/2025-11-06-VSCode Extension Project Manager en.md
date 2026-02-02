@@ -3,7 +3,7 @@ layout:     post
 title:      "Project Color Not Reset After Uninstalling VSCode Project Manager Plugin"
 date:       2025-11-06 22:32:00
 author:     "JoyLee"
-header-img: "img/github.jpg"
+header-img: "img/vscode-project-manager.png"
 catalog: true
 tags:
     - VSCode
