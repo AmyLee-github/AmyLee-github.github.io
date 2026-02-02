@@ -24,7 +24,7 @@ tags:
 # 解决方法
 找到问题原因后，解决方法就很简单明了了，在Github中重新生成新的`Token`然后更新到PicGo的Github仓库配置中就可以了。
 
-在Github中重新生成新的`Token`具体操作方式可以参考下面这篇知乎文章：https://zhuanlan.zhihu.com/p/1889726474673690179
+在Github中重新生成新的`Token`具体操作方式可以参考下面这篇知乎文章：[https://zhuanlan.zhihu.com/p/1889726474673690179](https://zhuanlan.zhihu.com/p/1889726474673690179)
 中**二、手把手搭建教程（Win/Mac通用）**——**第一步：创建Github图片仓库**的操作。
 
 将新生成的`Token`更新到PicGo的Github设置中之后，上传图片就可以成功啦！🎉

@@ -24,7 +24,7 @@ I checked my Github image bed settings and discovered the issue: my configured `
 # Solution
 The solution is straightforward: generate a new `Token` in Github and update it in PicGo's Github settings.
 
-For detailed steps on generating a new `Token`, refer to this article: https://zhuanlan.zhihu.com/p/1889726474673690179
+For detailed steps on generating a new `Token`, refer to this article: [https://zhuanlan.zhihu.com/p/1889726474673690179](https://zhuanlan.zhihu.com/p/1889726474673690179)
 
 After updating the new `Token` in PicGo, image uploads work perfectly! 🎉
 
